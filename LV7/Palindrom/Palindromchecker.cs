@@ -10,14 +10,11 @@ namespace Palindrom
     {
         public bool check(string sentence)
         {
-            sentence=sentence.ToLower();
-            sentence=sentence.Replace(" ", "");
-            char[] sentencearray = sentence.Where(letter => (char.IsLetterOrDigit(letter))).ToArray();
+            sentence = sentence.ToLower();
+            sentence = sentence.Replace(" ", "");
+            char[] sentencearray = sentence.Where(letter => (char.IsLetter(letter))).ToArray();
             sentence = new string(sentencearray);
-            Array.Reverse(sentencearray);
-            string reversentence= new string(sentencearray);
-
-            return sentence.Equals(reversentence);
+            return sentence.SequenceEqual(sentence.Reverse());
         }
 
     }
