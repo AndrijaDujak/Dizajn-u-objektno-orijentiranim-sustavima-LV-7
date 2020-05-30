@@ -10,8 +10,8 @@ namespace Palindrom
     {
         public bool check(string sentence)
         {
-            sentence.Replace(" ", "");
-            sentence.ToLower();
+            sentence=sentence.ToLower();
+            sentence=sentence.Replace(" ", "");
             char[] sentencearray = sentence.Where(letter => (char.IsLetterOrDigit(letter))).ToArray();
             sentence = new string(sentencearray);
             Array.Reverse(sentencearray);
