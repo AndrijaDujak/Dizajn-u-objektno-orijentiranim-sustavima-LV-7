@@ -4,3 +4,9 @@ C:\Users\andri\source\repos\LV7\Palindrom\obj\Debug\Palindrom.csprojAssemblyRefe
 C:\Users\andri\source\repos\LV7\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
 C:\Users\andri\source\repos\LV7\Palindrom\obj\Debug\Palindrom.dll
 C:\Users\andri\source\repos\LV7\Palindrom\obj\Debug\Palindrom.pdb
+C:\Users\andri\OneDrive\Desktop\dizajn u objektno\Dizajn-u-objektno-orijentiranim-sustavima-LV-7\LV7\Palindrom\bin\Debug\Palindrom.dll
+C:\Users\andri\OneDrive\Desktop\dizajn u objektno\Dizajn-u-objektno-orijentiranim-sustavima-LV-7\LV7\Palindrom\bin\Debug\Palindrom.pdb
+C:\Users\andri\OneDrive\Desktop\dizajn u objektno\Dizajn-u-objektno-orijentiranim-sustavima-LV-7\LV7\Palindrom\obj\Debug\Palindrom.csprojAssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\dizajn u objektno\Dizajn-u-objektno-orijentiranim-sustavima-LV-7\LV7\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\dizajn u objektno\Dizajn-u-objektno-orijentiranim-sustavima-LV-7\LV7\Palindrom\obj\Debug\Palindrom.dll
+C:\Users\andri\OneDrive\Desktop\dizajn u objektno\Dizajn-u-objektno-orijentiranim-sustavima-LV-7\LV7\Palindrom\obj\Debug\Palindrom.pdb
